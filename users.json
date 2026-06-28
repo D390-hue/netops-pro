@@ -1,0 +1,62 @@
+[
+  {
+    "id": "df76e001",
+    "username": "a.benali",
+    "fullname": "Ahmed Benali",
+    "email": "a.benali@company.ma",
+    "department": "IT",
+    "role": "Technicien IT",
+    "status": "active",
+    "m365": true,
+    "created": "2024-01-15",
+    "last_login": "2025-06-18"
+  },
+  {
+    "id": "a237ecf0",
+    "username": "s.idrissi",
+    "fullname": "Sara Idrissi",
+    "email": "s.idrissi@company.ma",
+    "department": "RH",
+    "role": "Responsable RH",
+    "status": "active",
+    "m365": true,
+    "created": "2023-09-01",
+    "last_login": "2025-06-20"
+  },
+  {
+    "id": "0d69933e",
+    "username": "k.tazi",
+    "fullname": "Karim Tazi",
+    "email": "k.tazi@company.ma",
+    "department": "Finance",
+    "role": "Comptable",
+    "status": "active",
+    "m365": true,
+    "created": "2024-03-10",
+    "last_login": "2025-06-19"
+  },
+  {
+    "id": "dbf0b799",
+    "username": "f.alaoui",
+    "fullname": "Fatima Alaoui",
+    "email": "f.alaoui@company.ma",
+    "department": "Direction",
+    "role": "Directrice",
+    "status": "active",
+    "m365": true,
+    "created": "2022-06-01",
+    "last_login": "2025-06-20"
+  },
+  {
+    "id": "6cda8094",
+    "username": "m.cherkaoui",
+    "fullname": "Mohamed Cherkaoui",
+    "email": "m.cherkaoui@company.ma",
+    "department": "Support",
+    "role": "Agent Support",
+    "status": "disabled",
+    "m365": false,
+    "created": "2023-11-20",
+    "last_login": "2025-03-01"
+  }
+]

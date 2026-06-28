@@ -1,0 +1,52 @@
+[
+  {
+    "id": "b9a63ee2",
+    "rule": "PORT_SCAN",
+    "description": "Scan de ports d\u00e9tect\u00e9",
+    "severity": "HIGH",
+    "source_ip": "192.168.1.105",
+    "timestamp": "2026-06-28T17:35:29.679061",
+    "resolved": true,
+    "resolution": "Bloqu\u00e9 via pare-feu"
+  },
+  {
+    "id": "1bbbd923",
+    "rule": "BRUTE_FORCE_SSH",
+    "description": "Tentative de bruteforce SSH",
+    "severity": "CRITICAL",
+    "source_ip": "10.0.0.47",
+    "timestamp": "2026-06-28T18:50:29.679127",
+    "resolved": false,
+    "resolution": null
+  },
+  {
+    "id": "dc28dfd5",
+    "rule": "SUSPICIOUS_PORT",
+    "description": "Connexion sur port suspect (Telnet/23)",
+    "severity": "MEDIUM",
+    "source_ip": "192.168.1.203",
+    "timestamp": "2026-06-28T19:05:29.679142",
+    "resolved": false,
+    "resolution": null
+  },
+  {
+    "id": "ecc7b0db",
+    "rule": "NEW_DEVICE",
+    "description": "Nouveau p\u00e9riph\u00e9rique d\u00e9tect\u00e9 sur le r\u00e9seau",
+    "severity": "LOW",
+    "source_ip": "192.168.1.88",
+    "timestamp": "2026-06-28T19:20:29.679152",
+    "resolved": true,
+    "resolution": "Bloqu\u00e9 via pare-feu"
+  },
+  {
+    "id": "baea72dd",
+    "rule": "BRUTE_FORCE_RDP",
+    "description": "Tentative de bruteforce RDP",
+    "severity": "CRITICAL",
+    "source_ip": "172.16.0.12",
+    "timestamp": "2026-06-28T19:30:29.679160",
+    "resolved": false,
+    "resolution": null
+  }
+]
